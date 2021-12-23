@@ -15,6 +15,6 @@ The prefix defaults to "#" you can change that inside "config.json".
 
 ```json
 {
-  "PREFIX: "prefix_here"
+  "PREFIX": "prefix_here"
 }
 ```
